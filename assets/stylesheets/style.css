@@ -38,6 +38,7 @@ html{ font-family: sans-serif; overflow-y: scroll; scroll-behavior: smooth;}
   display: flex;
   justify-content: center;
   align-items: center;
+  background-position: center;
 }
 
 .header__apresentation-div {
