@@ -48,6 +48,12 @@ html{ font-family: sans-serif; overflow-y: scroll; scroll-behavior: smooth;}
   font-size: 5rem;
 }
 
+@media screen and (max-width: 435px){
+    .header__apresentation-div > h1 {
+      font-size: 3em;
+    }
+}
+
 .header__apresentation-div--under-line {
   height: 5px;
   width: 50px;
@@ -88,6 +94,8 @@ html{ font-family: sans-serif; overflow-y: scroll; scroll-behavior: smooth;}
 
 .skills__list {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .skills__list--item {
