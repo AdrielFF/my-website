@@ -56,6 +56,8 @@ html{ font-family: sans-serif; overflow-y: scroll; scroll-behavior: smooth;}
   .menu-nav > ul > li  {
     width: 100%;
     text-align: center;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .menu-nav > ul > li:first-child {
