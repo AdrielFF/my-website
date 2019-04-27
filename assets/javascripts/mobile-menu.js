@@ -1,4 +1,3 @@
-
 let menuTrigger = document.querySelector(".nav")
 let menu = document.querySelector(".menu-nav")
 
