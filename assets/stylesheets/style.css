@@ -123,9 +123,10 @@ html{ font-family: sans-serif; overflow-y: scroll; scroll-behavior: smooth;}
 .header__apresentation-div--under-line {
   height: 5px;
   width: 50px;
-  background: linear-gradient(90deg, #fff, #000);
+  background: linear-gradient(90deg, #22C8FF, #2220FF);
   margin: 1rem auto;
   border-radius: 5px;
+  box-shadow: 1px 1px 5px #000;
 }
 
 .header__apresentation-div > h2 {
